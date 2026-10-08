@@ -1,0 +1,5 @@
+<linker>
+  <assembly fullname="GameMain" preserve="all" />
+  <assembly fullname="System.Net.WebSockets.Client" preserve="all" />
+  <assembly fullname="System.Net.WebSockets" preserve="all" />
+</linker>

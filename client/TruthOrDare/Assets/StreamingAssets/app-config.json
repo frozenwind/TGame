@@ -1,0 +1,5 @@
+{
+  "serverUrl": "http://127.0.0.1:8787",
+  "cdnUrl": "http://127.0.0.1:8787/content",
+  "version": "1.0.0"
+}
