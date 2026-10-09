@@ -1,6 +1,7 @@
 {
   "version": "1.0.0",
   "dll": "hotupdate/Game.HotUpdate.dll.bytes",
-  "catalog": "catalog.json",
+  "catalog": "catalog_1.0.0.json",
+  "hash": "",
   "aot": []
 }
